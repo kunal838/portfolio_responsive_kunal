@@ -1,0 +1,21 @@
+.home{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height: 93.5vh;
+    align-items: center;
+}
+.logo{
+    height: 30vh;
+    
+    
+}
+.home__logo{
+    margin-bottom: 20px;
+}
+.home__l{
+    margin-right: 200px;;
+   
+}
+h1{
+    margin-bottom: 20px;;
+}
